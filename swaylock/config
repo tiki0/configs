@@ -1,0 +1,10 @@
+# Set a background image
+image=/home/capeta/.config/sway/snow_forest.jpg
+
+# Optional scaling mode (stretch, fill, fit, center, tile, or solid_color)
+scaling=fill
+
+# Optional color fallback or indicator tweaks
+color=000000
+show-failed-attempts
+

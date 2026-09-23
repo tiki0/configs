@@ -1,15 +1,15 @@
 # Window settings
 [window]
 startup_mode = "Maximized"  # Start Alacritty in fullscreen mode
-opacity = 0.90
+opacity = 0.80
 decorations = "full"
 dynamic_title = true
 
 
 # Font settings
 [font]
+size = 14
 #normal = { family = "Fira Code", style = "Medium" }  # Set font family and style
-size = 10
 
 # Cursor settings
 [cursor]
@@ -32,17 +32,17 @@ background = "0x101010"
 foreground = "0xd3d3d3"
 
 [colors.cursor]
-text = "0x000000"
-cursor = "0xdddddd"
+text = "0x330000"
+cursor = "0x555555"
 
 [colors.normal]
 black = "0x000000"
 red = "0xff5555"
-green = "0x77dd44"
+green = "0x44ee22"
 yellow = "0xffff55"
-blue = "0x2299aa"
+blue = "0x00bbff"
 magenta = "0xff55ff"
-cyan = "0x00ffff"
+cyan = "0x00eeee"
 white = "0xd3d3d3"
 
 [colors.bright]
